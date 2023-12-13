@@ -3,7 +3,7 @@
 
 <p>I have recently graduated from Le Wagon's intensive nine-week <strong>Web Development Bootcamp</strong>, and now I'm keen to flex my new-found skills in a full-stack or back-end role where I can make an impact in an exciting team and company.</p>
 
-- ⚡ Fun fact **I won an episode of BBC1's Pointless**
+- ⚡ Fun fact: **I won an episode of BBC1's Pointless**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
