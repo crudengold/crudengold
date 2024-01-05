@@ -6,7 +6,7 @@
 <p>In a previous life, I worked in marketing and communications for ten years, across industries including architecture, publishing and travel. I gained invaluable communication and collaboration skills during this time.</p>
 
 - ⭐ I finished the bootcamp in **December 2023**
-- 🌱 I’m currently learning **React, AWS and Typescript**
+- 🌱 I’m currently working on a personal project involving **JSON APIs** and **Background workers**
 - ⚡ Fun fact: **I won an episode of BBC1's Pointless**
 
 <h3 align="left">Connect with me:</h3>
